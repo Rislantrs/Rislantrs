@@ -1,25 +1,45 @@
-Hi there! 👋 I'm Rislantrs
+# Halo, saya M Rislan Tristansyah 👋
 
-🚀 About Me
+### 🚀 About Me
 
-I'm a passionate developer with a strong interest in web development, cybersecurity, and AI/ML. Currently, I'm exploring deep learning for cybersecurity threat detection, specifically using Deep Neural Networks (DNN) for IoT and edge computing security.
+Saya adalah mahasiswa semester lima Sistem Telekomunikasi di Universitas Pendidikan Indonesia dengan IPK 3.60/4.00, yang sangat fokus pada **Artificial Intelligence (AI), Cloud Computing, dan Machine Learning** untuk optimasi jaringan.
 
-🛠 Tech Stack
-Programming Languages: Python, JavaScript
-Web Development: HTML, CSS, JavaScript, php
-Machine Learning & AI: TensorFlow, Keras, NumPy, Pandas
-Embedded Systems: Arduino (OLED display projects)
+Saya berfungsi sebagai *hybrid problem solver* dan *strategic planner*, berdedikasi untuk menjembatani kedalaman teknis dengan eksekusi terukur.
 
-🌱 Currently Learning
-JavaScript for web development
+**Goal:** Menyelesaikan magang profesional dan mempublikasikan jurnal Scopus tentang optimasi jaringan berbasis AI.
 
-💡 Projects & Interests
--Developing a DNN-based intrusion detection system for IoT
--Exploring visualization techniques for cybersecurity threats
--Experimenting with deck-building strategies in Master Magia & Dark Dragoon
--Creating Arduino projects with OLED displays
+---
 
-📫 Let's Connect
-GitHub: Rislantrs
-⚡ Fun fact: I enjoy playing strategy card games and love tinkering with AI models for fun! 😄
+### 💡 Fokus Teknis
 
+Minat saya saat ini berpusat pada eksplorasi *deep learning* untuk deteksi ancaman keamanan siber, khususnya penggunaan **Deep Neural Networks (DNN)** pada keamanan IoT dan *edge computing*.
+
+* **Keterampilan Non-Teknis:** Leadership, Time Management, Project Management, dan Problem Solving.
+* **Proyek Utama:** Mengembangkan sistem deteksi intrusi berbasis DNN untuk IoT.
+
+---
+
+### 🛠 Tech Stack
+
+| Kategori | Keterampilan |
+| :--- | :--- |
+| **Bahasa Pemrograman** | Python, JavaScript |
+| **Keahlian Utama** | Artificial Intelligence (AI), Cloud Computing, Network Infrastructure |
+| **ML & Data** | TensorFlow, Keras, NumPy, Pandas |
+| **Web Development** | HTML, CSS, JavaScript, PHP |
+| **Sistem Tertanam** | Arduino (Proyek tampilan OLED) |
+
+**🌱 Currently Learning:** Mendalami JavaScript untuk pengembangan web.
+
+---
+
+### 📫 Let's Connect
+
+| Platform | Handle |
+| :--- | :--- |
+| **LinkedIn** | [M Rislan Tristansyah](https://www.linkedin.com/in/m-rislan-tristansyah-96669a294/) |
+| **Portfolio Web** | [rislanporto.vercel.app](https://rislanporto.vercel.app/) |
+| **GitHub** | Rislantrs |
+| **Email** | rislantristansyah@gmail.com |
+
+---
