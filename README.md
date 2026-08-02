@@ -6,7 +6,7 @@ Saya adalah mahasiswa semester lima Sistem Telekomunikasi di Universitas Pendidi
 
 Saya berfungsi sebagai *hybrid problem solver* dan *strategic planner*, berdedikasi untuk menjembatani kedalaman teknis dengan eksekusi terukur.
 
-**Goal:** Menyelesaikan magang profesional dan mempublikasikan jurnal Scopus tentang optimasi jaringan berbasis AI.
+
 
 ---
 
